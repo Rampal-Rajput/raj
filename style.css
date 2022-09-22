@@ -1,0 +1,33 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: green;
+  font-size: 60px;
+}
+img:hover{
+  color:pink;
+}
+h3 {
+  color: #21ff21;
+  font-size: 30px;
+}
+.rampal{
+  background-color:white;
+  color: red;
+}
+.rp{
+  border-radius: 100%;
+}
+#heading{
+  color=green;
+}
